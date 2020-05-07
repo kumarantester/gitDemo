@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64" started-at="2020-04-15T08:52:07 IST" finished-at="2020-04-15T08:52:07 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64" started-at="2020-04-15T08:52:07 IST" finished-at="2020-04-15T08:52:07 IST">
+      <class name="kumaranqa.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumTest1()[pri:0, instance:kumaranqa.SeleniumTest@6e6c3152]" name="SeleniumTest1" duration-ms="6" started-at="2020-04-15T08:52:07 IST" finished-at="2020-04-15T08:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest1 -->
+        <test-method status="PASS" signature="SeleniumTest2()[pri:0, instance:kumaranqa.SeleniumTest@6e6c3152]" name="SeleniumTest2" duration-ms="0" started-at="2020-04-15T08:52:07 IST" finished-at="2020-04-15T08:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+      </class> <!-- kumaranqa.SeleniumTest -->
+      <class name="kumaranqa.RestAPITest">
+        <test-method status="PASS" signature="RestAPI1()[pri:0, instance:kumaranqa.RestAPITest@50b494a6]" name="RestAPI1" duration-ms="1" started-at="2020-04-15T08:52:07 IST" finished-at="2020-04-15T08:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPI1 -->
+        <test-method status="PASS" signature="RestAPI2()[pri:0, instance:kumaranqa.RestAPITest@50b494a6]" name="RestAPI2" duration-ms="0" started-at="2020-04-15T08:52:07 IST" finished-at="2020-04-15T08:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPI2 -->
+      </class> <!-- kumaranqa.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
